@@ -19,5 +19,3 @@ end
 # The input will only consist of lowercase characters and will be at least one letter long.
 
 # If there are multiple solutions, return the one that appears first.
-
-# Good luck :)
