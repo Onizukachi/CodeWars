@@ -1,5 +1,5 @@
 require 'set'
-# Я злой мамонт
+# Я злой
 
 # def remember(str)
 #   arr = []
